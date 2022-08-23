@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444569976213",
+    "firebase_url": "https://pavilio-default-rtdb.firebaseio.com",
+    "project_id": "pavilio",
+    "storage_bucket": "pavilio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444569976213:android:b1ac06cd4216faf4ddca9c",
+        "android_client_info": {
+          "package_name": "com.example.pj1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444569976213-22d95lm3id60a618rjqpn7140kghbnps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pj1",
+            "certificate_hash": "529c5de4f3791830eff6dcf33aa8085c05baf73d"
+          }
+        },
+        {
+          "client_id": "444569976213-0lnsnvjl3mvfu5da895e1pok79go5hde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSQik8On68fbXClZHo0YwhnnlSO3YF6t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444569976213-0lnsnvjl3mvfu5da895e1pok79go5hde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
